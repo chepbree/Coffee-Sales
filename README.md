@@ -25,12 +25,6 @@ This project analyzes **coffee sales data** using Python in a Jupyter Notebook. 
 - Revenue breakdown by coffee type.  
 
 ## Insights & Findings  
-- Peak sales occur during **[insert finding here]**.  
-- The most popular product is **[insert coffee type here]**.  
-- Customers from **[insert region/location]** buy more premium coffee.  
+- Peak sales occur during afternoon.  
+- The most popular product is Americano with milk.    
 - Seasonal variations strongly influence sales.  
-
-## Future Improvements  
-- Build an **interactive dashboard** (Streamlit/Plotly).  
-- Apply **predictive models** to forecast future sales.  
-- Segment customers for targeted promotions.  
